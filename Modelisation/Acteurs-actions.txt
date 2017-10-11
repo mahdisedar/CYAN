@@ -1,0 +1,44 @@
+Terminal Boutique : Appli (java python ...)
+Smartphone client : Appli (android) (Si non developper utilisé WB)
+Web browser : HTML-PHP...
+BDD : MySQL
+
+Actions possibles:
+
+Terminal Boutique :
+	Le vendeur se connecte 
+	Il peut voir la liste des objet (libre/non libre...)
+	Il peut réserver un obj pour un client
+	Il peut accuser reception d'un obj par un client
+	Il peut accuser d'un retour d'obj
+	Encaisser l'argent
+
+Smartphone :
+Sans connexion
+	Le client peut obtenir des liste d'obj selon plusieurs critères:
+		-> Nom
+		-> Position
+		-> Dispo
+	Ajouter des obj dans son pannier
+Avec connexion
+	Reserver des objets (qui se trouve en depot ou chez qq'un)
+	Accuser reception d'un obj
+	Accuser d'envoie d'un obj
+	Payer
+	Donner un avis sur l'objet possédé
+
+WB:
+Sans connexion
+	Le client peut obtenir des liste d'obj selon plusieurs critères:
+		-> Nom
+		-> Position
+		-> Dispo
+	Ajouter des obj dans son pannier
+Avec connexion
+	Reserver des objets (qui se trouve en depot ou chez qq'un)
+	Accuser reception d'un obj
+	Accuser d'envoie d'un obj
+	Payer
+	Donner un avis sur l'objet possédé
+
+
