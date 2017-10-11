@@ -1,5 +1,5 @@
 Terminal Boutique : Appli (java python ...)
-Smartphone client : Appli (android) (Si non developper utilisé WB)
+Smartphone client : Appli (android) (Si non developper utilisé WB) -> developper appli si on a le temps
 Web browser : HTML-PHP...
 BDD : MySQL
 
